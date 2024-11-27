@@ -1,2 +1,1 @@
 print("shunshi")
-print("hi")
