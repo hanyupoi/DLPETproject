@@ -1,1 +1,2 @@
 print("shunshi")
+print("hi")
